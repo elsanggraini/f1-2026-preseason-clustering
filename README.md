@@ -3,8 +3,7 @@
 ## 🏎️ Project Overview
 This research aims to map the hierarchy of team strength and driver performance characteristics in the 2026 Formula 1 technical regulation era (50/50 Power Unit & Active Aerodynamics). Utilizing telemetry data from pre-season testing in Bahrain, this project implements **Unsupervised Learning** algorithms to penetrate the "sandbagging" phenomenon and uncover true performance patterns.
 
-> **Current Status:** 📄 Under Review at *Jurnal Terapan Teknologi Informasi (JUTEI)*.  
-> *The full manuscript will be uploaded following official publication and acceptance.*
+**Current Status:** 🏆 **Published** in Jurnal Terapan Teknologi Informasi (JUTEI) Vol. 10 No. 1, April 2026.
 
 ## 📊 Methodology
 - **Clustering Algorithm:** K-Means Clustering.
